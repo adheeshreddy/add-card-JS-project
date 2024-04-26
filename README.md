@@ -1,4 +1,6 @@
-// Fetching data from a random api andd adding it into the html using javascript 
+// Fetching data from a random api and adding it into the html using javascript 
+
+
 output images:
 ![Screenshot (729)](https://github.com/adheeshreddy/add-card-JS-project/assets/117195347/2d23e776-bf64-4144-a389-f6cdde477edf)
 
